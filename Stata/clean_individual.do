@@ -8,6 +8,8 @@ use "..\rdm2024_data\practical_individual.dta", clear
 // Explore the dataset
 describe
 
+#test comment
+
 // Clean the dataset - to be completed
 
 // Save the dataset
